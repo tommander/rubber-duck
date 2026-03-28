@@ -1,22 +1,12 @@
 # Rubber Duck
 
-![Rubber Duck screenshot](screenshot.png)
+'Tis a virtual rubber duck - SVG (66 %), HTML (27 %) and CSS (7 %). No JavaScript, no remote styles/scripts/images/&hellip; Minimal and simple (~2 KiB).
 
-Virtual rubber duck. Say goodbye to private room retreats pretending you are on a call when you really just need to rubber duck a problem.
+![Rubber Duck screenshot](screenshot.webp)
 
-- Only HTML, CSS and SVG
-- No JavaScript
-- Independent on local/remote files
-- Small size (~2 KiB)
-- Simple design
-
-Installation and usage instructions in case you never [rubber ducked](https://en.wiktionary.org/wiki/rubber_duck_debugging) before or you cannot imagine how to use a virtual one.
-
-1. Download either [ducky.html](https://github.com/tommander/rubber-duck/blob/master/ducky.html) (good for editing or studying the immense beyond-complex source code) or [ducky.min.html](https://github.com/tommander/rubber-duck/blob/master/ducky.min.html) (for <q>production</q> use)
-2. (Recommended) Verify SHA256 checksum of the downloaded file
-3. Open the downloaded file in your favourite browser (e.g. [Firefox](https://www.firefox.com/))
-4. [ELI5](https://en.wiktionary.org/wiki/ELI5) your issue to the *virtual* rubber duck as if it was your *real* rubber duck
-
-Note: submit button does nothing. Nothing. But I know you'll click on it anyway.
-
-That's it, folks.
+- [Rubber Duck on GitHub Pages](https://tommander.github.io/rubber-duck/)
+- [index.html](https://github.com/tommander/rubber-duck/blob/master/index.html) &hellip; <q>minified</q> [dev.html](https://github.com/tommander/rubber-duck/blob/master/dev.html)[^1]  
+`ada344f3c7c510a33c4aaf6d97c4a478c33d9cccdc54cbf5117a10755e7df2f8`
+- [dev.html](https://github.com/tommander/rubber-duck/blob/master/dev.html) - formatted source code used for development  
+`7ebbb04c645d5aba1275b4bdcfec77038bdbad4f641d6c8867b688dab3913b87`
+- [Article about rubber ducking on Wikipedia](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
